@@ -2,8 +2,8 @@
   "name": "FCM Web-Push",
   "short_name": "FcmWebPush",
   "icons": [{
-    "src": "image/icon.png",
-    "sizes": "256x256",
+    "src": "image/ic_info_outline_black_48dp_2x.png",
+    "sizes": "48x48",
     "type": "image/png"
   }],
   "start_url": "index.html",
