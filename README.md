@@ -13,7 +13,7 @@ Encryption library uses [web-push-libs/web-push-java](https://github.com/web-pus
 **Set up FCM server key**
 
 ```setup shell
-(fcm-webpush-test) $ setup.sh <GCM_SENDER_ID> <FCM_SERVER_KEY>
+(fcm-webpush-test) $ sh ./setup.sh <GCM_SENDER_ID> <FCM_SERVER_KEY>
 ```
 
 **Run containerss**
