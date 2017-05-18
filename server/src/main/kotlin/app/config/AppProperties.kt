@@ -9,6 +9,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties
 @ConfigurationProperties("webpush")
 class AppProperties {
 
-        var serverUrl: String?= null
-        var serverKey: String? = null
+    var serverUrl: String?= null
+    var serverKey: String? = null
 }

@@ -6,7 +6,7 @@ This repository contains the demonstration of Web Push via Firebase Cloud Messag
 
 ## Web Push payload encryption
 
-Encryption library uses [web-push-libs/web-push-java](https://github.com/web-push-libs/web-push-java).
+Encryption library uses [MartijnDwars/web-push](https://github.com/MartijnDwars/web-push).
 
 ## Running the examples
 
